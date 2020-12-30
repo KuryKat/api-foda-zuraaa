@@ -1,0 +1,473 @@
+[
+    {
+        "_id": "757563141637799969",
+        "username": "Judy",
+        "discriminator": "0662",
+        "avatar": "2f1c4a8f8ffb2c1e6b21ba15cf83780e",
+        "status": "online",
+        "owner": "742798447253651506",
+        "dates": {
+            "sent": "2020-09-23T14:57:56.550Z"
+        },
+        "details": {
+            "prefix": "j.",
+            "tags": [
+                "anime",
+                "diversao",
+                "utilidades",
+                "moderacao",
+                "economia",
+                "outros"
+            ],
+            "library": "discord.js",
+            "customInviteLink": "",
+            "shortDescription": "🍰 Olá eu sou a Judy, um simples bot para discord feito pra você !!!",
+            "longDescription": "## Menu de ajuda:\r\n\r\n🎁 Membros: [10]\r\n`avatar` | `serverinfo` | `userinfo` | `coronavírus` | `calcular` | `docs` | `morse` | `emoji` | `emojify` | `choose`\r\n\r\n💂 Moderação: [5]\r\n`slowmode` | `clear` | `nickname` | `lock` | `unlock`\r\n\r\n🖥️ Desenvolvedores: [3]\r\n`reload` | `eval` | `serverinvite`\r\n\r\n🤖 BOT: [5]\r\n`changelog` | `ping` | `say` | `botinfo` | `shardinfo`\r\n\r\n✌️ Diversão: [3]\r\n`procurado` | `primeiraspalavras` | `laranjo`\r\n\r\n🤖 Miscelânea: [2]\r\n`marry` | `perfil`",
+            "htmlDescription": "<h2>Menu de ajuda:</h2>\n<p>🎁 Membros: [10]\n<code>avatar</code> | <code>serverinfo</code> | <code>userinfo</code> | <code>coronavírus</code> | <code>calcular</code> | <code>docs</code> | <code>morse</code> | <code>emoji</code> | <code>emojify</code> | <code>choose</code></p>\n<p>💂 Moderação: [5]\n<code>slowmode</code> | <code>clear</code> | <code>nickname</code> | <code>lock</code> | <code>unlock</code></p>\n<p>🖥️ Desenvolvedores: [3]\n<code>reload</code> | <code>eval</code> | <code>serverinvite</code></p>\n<p>🤖 BOT: [5]\n<code>changelog</code> | <code>ping</code> | <code>say</code> | <code>botinfo</code> | <code>shardinfo</code></p>\n<p>✌️ Diversão: [3]\n<code>procurado</code> | <code>primeiraspalavras</code> | <code>laranjo</code></p>\n<p>🤖 Miscelânea: [2]\n<code>marry</code> | <code>perfil</code></p>\n",
+            "supportServer": "",
+            "website": "",
+            "isHTML": false,
+            "otherOwners": [
+                "757928932199891094"
+            ]
+        },
+        "approvedBy": "602140733985652759",
+        "votes": {
+            "current": 168
+        },
+        "count": {}
+    },
+    {
+        "_id": "770762400034848808",
+        "username": "Rikka",
+        "discriminator": "6717",
+        "avatar": "6e192a4c829621921225a2fdb727dce9",
+        "status": "online",
+        "owner": "439540421606113285",
+        "dates": {
+            "sent": "2020-11-16T22:02:56.740Z"
+        },
+        "details": {
+            "prefix": "r!",
+            "tags": [
+                "diversao",
+                "utilidades",
+                "social",
+                "moderacao",
+                "nsfw"
+            ],
+            "library": "discord.js",
+            "customInviteLink": "https://discord.com/oauth2/authorize?client_id=770762400034848808&scope=bot&permissions=8",
+            "shortDescription": "Oi sou Rikka, e estou disposta a ajudar o seu servidor em tudo que eu puder posso diverti seu servidor e te ajudar com funções de moderação.",
+            "longDescription": "### Um pouco sobre a Rikka\r\n>  Olá a Rikka é uma bot feita usando a biblioteca do discord.js, ela possui muitos comandos e outros estão sendo desenvolvidos  para melhorar ainda mais, a Rikka possui comandos para todos os gostos ela tem comandos de Diversão🎡, social🎉, moderação👮, photoshop(para quem gosta de criar memes😂) e NSFW🔞. Adicione ela ao seu server que tudo irar ficar mais divertido.\r\n\r\n### Após adicionar ela\r\n> Depois que você adiciona a Rikka, você usa **r!ajuda** que ela ira te mostra todos os comandos adicionados até agora, outros comandos estão sendo desenvolvidos para aumentar ainda mais a lista de comandos.\r\n\r\n> Caso você precise de suporte entre no server dela usando [clicando aqui](https://discord.gg/ds72mBe7tx)",
+            "htmlDescription": "<h3>Um pouco sobre a Rikka</h3>\n<blockquote>\n<p>Olá a Rikka é uma bot feita usando a biblioteca do discord.js, ela possui muitos comandos e outros estão sendo desenvolvidos  para melhorar ainda mais, a Rikka possui comandos para todos os gostos ela tem comandos de Diversão🎡, social🎉, moderação👮, photoshop(para quem gosta de criar memes😂) e NSFW🔞. Adicione ela ao seu server que tudo irar ficar mais divertido.</p>\n</blockquote>\n<h3>Após adicionar ela</h3>\n<blockquote>\n<p>Depois que você adiciona a Rikka, você usa <strong>r!ajuda</strong> que ela ira te mostra todos os comandos adicionados até agora, outros comandos estão sendo desenvolvidos para aumentar ainda mais a lista de comandos.</p>\n</blockquote>\n<blockquote>\n<p>Caso você precise de suporte entre no server dela usando <a href=\"https://discord.gg/ds72mBe7tx\">clicando aqui</a></p>\n</blockquote>\n",
+            "supportServer": "ds72mBe7tx",
+            "website": "https://rikka-discord.glitch.me/",
+            "isHTML": false,
+            "otherOwners": []
+        },
+        "approvedBy": "368280970102833153",
+        "votes": {
+            "current": 120
+        },
+        "count": {}
+    },
+    {
+        "_id": "754548334328283137",
+        "username": "Lilly",
+        "discriminator": "1102",
+        "avatar": "2216ea6d7b4bae7a10e6e1cb29ab2c5f",
+        "status": "online",
+        "owner": "374303268068655107",
+        "dates": {
+            "sent": "2020-09-22T18:12:43.376Z"
+        },
+        "details": {
+            "prefix": "$ (Alterável)",
+            "tags": [
+                "dashboard",
+                "diversao",
+                "utilidades",
+                "social",
+                "moderacao",
+                "economia"
+            ],
+            "library": "discord.js",
+            "customInviteLink": "https://lillys-website.herokuapp.com/invite",
+            "shortDescription": "Lilly é um bot criado com o objetivo de trazer muitas novas utilidades para os servidores, que vão desde moderação até economia!",
+            "longDescription": "*Lilly* é um bot que visa trazer mais **facilidade e diversão** aos servidores do Discord. Lilly traz **muitos comandos úteis** que ajudam a todos no servidor.\r\n\r\n**Todos os comandos são traduzidos para inglês e português brasileiro** (mas os comandos são respondidos em português) tornando-o um bot quase internacional e **compreensível para todos.**\r\n\r\nO [site da Lilly](https://lillys-website.herokuapp.com/) também traz uma lista traz também a lista **sempre atualizada** completa de comandos de bot.\r\n\r\nLilly traz um sistema de economia muito completo.  Possui duas moedas:\r\n\r\n - **DinDins**: uma moeda mais comum onde você pode gastá-lo em apostas e compras na Lilly.\r\n\r\n - **Halitas**: Uma moeda mais rara usada para comprar itens mais poderosos.  Halita é uma moeda mais difícil de se obter.\r\n\r\n Veja alguns comandos presentes no Lilly:\r\n\r\n  *Não é necessário usar **\"<>\"**.  Tudo o que tiver **\"?\"** significa que ** não é obrigatório*.\r\n\r\n  `$setprefix <prefix>` |  Mudar o prefixo de Lilly\r\n\r\n  `$setcommandchannel <channel?>` |  Mudar o canal em que os comandos Lilly podem ser usados\r\n\r\n  `$say <mensagem>` |  Lilly manda uma mensagem para você\r\n\r\n  `$server` |  Exibir informações do servidor\r\n\r\n  `$userinfo <user?>` |  Exibir informações do usuário\r\n\r\n  `$avatar <usuário?>` |  Exibe o avatar do usuário e o disponibiliza para download\r\n\r\n  `$help` |  Mostra alguns links úteis para ajudar o usuário\r\n\r\n  `$ban <usuário> <razão?> <hora?>` |  Expulsa usuários do servidor.\r\n\r\n  `$unban <user>` |  Remova o banimento de usuários do servidor.\r\n\r\n  `$kick <usuário> <razão?>` |  Expulsa o usuário do servidor.\r\n\r\n  `$balance` |  Mostra seu saldo DinDins e Halitas no Lilly.\r\n\r\n  `$gennum <início?> <fim?>` |  Gera um número entre um valor e outro informado (por default fica entre 0 e 10)\r\n\r\n  `$betnum <número> <valor da aposta>` |  Aposto que número Lilly ela pensou.\r\n\r\n  `$transfer <usuário> <valor>` |  Transfere DinDins para outro usuário.\r\n \r\n  **Se você quiser ver mais comandos [visite o site da Lilly](https://lillys-website.herokuapp.com/).**\r\n \r\n  ***Isso é tudo, espero que você se divirta com a Lilly em seu servidor e que seus membros se divirtam muito.  Tchau tchau.***",
+            "htmlDescription": "<p><em>Lilly</em> é um bot que visa trazer mais <strong>facilidade e diversão</strong> aos servidores do Discord. Lilly traz <strong>muitos comandos úteis</strong> que ajudam a todos no servidor.</p>\n<p><strong>Todos os comandos são traduzidos para inglês e português brasileiro</strong> (mas os comandos são respondidos em português) tornando-o um bot quase internacional e <strong>compreensível para todos.</strong></p>\n<p>O <a href=\"https://lillys-website.herokuapp.com/\">site da Lilly</a> também traz uma lista traz também a lista <strong>sempre atualizada</strong> completa de comandos de bot.</p>\n<p>Lilly traz um sistema de economia muito completo.  Possui duas moedas:</p>\n<ul>\n<li>\n<p><strong>DinDins</strong>: uma moeda mais comum onde você pode gastá-lo em apostas e compras na Lilly.</p>\n</li>\n<li>\n<p><strong>Halitas</strong>: Uma moeda mais rara usada para comprar itens mais poderosos.  Halita é uma moeda mais difícil de se obter.</p>\n</li>\n</ul>\n<p>Veja alguns comandos presentes no Lilly:</p>\n<p><em>Não é necessário usar <strong>&quot;&lt;&gt;&quot;</strong>.  Tudo o que tiver <strong>&quot;?&quot;</strong> significa que ** não é obrigatório</em>.</p>\n<p><code>$setprefix &lt;prefix&gt;</code> |  Mudar o prefixo de Lilly</p>\n<p><code>$setcommandchannel &lt;channel?&gt;</code> |  Mudar o canal em que os comandos Lilly podem ser usados</p>\n<p><code>$say &lt;mensagem&gt;</code> |  Lilly manda uma mensagem para você</p>\n<p><code>$server</code> |  Exibir informações do servidor</p>\n<p><code>$userinfo &lt;user?&gt;</code> |  Exibir informações do usuário</p>\n<p><code>$avatar &lt;usuário?&gt;</code> |  Exibe o avatar do usuário e o disponibiliza para download</p>\n<p><code>$help</code> |  Mostra alguns links úteis para ajudar o usuário</p>\n<p><code>$ban &lt;usuário&gt; &lt;razão?&gt; &lt;hora?&gt;</code> |  Expulsa usuários do servidor.</p>\n<p><code>$unban &lt;user&gt;</code> |  Remova o banimento de usuários do servidor.</p>\n<p><code>$kick &lt;usuário&gt; &lt;razão?&gt;</code> |  Expulsa o usuário do servidor.</p>\n<p><code>$balance</code> |  Mostra seu saldo DinDins e Halitas no Lilly.</p>\n<p><code>$gennum &lt;início?&gt; &lt;fim?&gt;</code> |  Gera um número entre um valor e outro informado (por default fica entre 0 e 10)</p>\n<p><code>$betnum &lt;número&gt; &lt;valor da aposta&gt;</code> |  Aposto que número Lilly ela pensou.</p>\n<p><code>$transfer &lt;usuário&gt; &lt;valor&gt;</code> |  Transfere DinDins para outro usuário.</p>\n<p><strong>Se você quiser ver mais comandos <a href=\"https://lillys-website.herokuapp.com/\">visite o site da Lilly</a>.</strong></p>\n<p><em><strong>Isso é tudo, espero que você se divirta com a Lilly em seu servidor e que seus membros se divirtam muito.  Tchau tchau.</strong></em></p>\n",
+            "supportServer": "SceHNfZ",
+            "website": "https://lillys-website.herokuapp.com/",
+            "isHTML": false,
+            "otherOwners": []
+        },
+        "approvedBy": "602140733985652759",
+        "votes": {
+            "current": 113
+        },
+        "count": {}
+    },
+    {
+        "_id": "297153970613387264",
+        "username": "Loritta",
+        "discriminator": "0219",
+        "avatar": "c57fac132f4f2829ca7179e817aa4a27",
+        "status": "online",
+        "owner": "123170274651668480",
+        "dates": {
+            "sent": "2019-05-03T01:01:20.924Z",
+            "approved": "2019-05-03T01:01:57.408Z"
+        },
+        "details": {
+            "prefix": "+",
+            "tags": [
+                "dashboard",
+                "diversao",
+                "utilidades",
+                "social",
+                "musica",
+                "moderacao"
+            ],
+            "library": "JDA",
+            "customInviteLink": "",
+            "shortDescription": "Apenas um simples bot para o Discord — Diversão 😂, moderação 👮, utils 📅 e muito mais 😊!",
+            "longDescription": "owo isso uma descrição longa\r\n\r\nainda não escrevi nada de interessante, mas você provavelmente já conhece a Lori ;w;\r\n\r\nela é fofis, muito boa, uma garotinha de 16 anos tentando transformar o mundo em um lugar melhor!\r\n\r\nokay, byeeee :3\r\n\r\n![Loritta GitHub Logo](https://cdn.discordapp.com/attachments/708017680677863505/709793353478176768/lori_github_logo.png)\r\n\r\n# ⭐ Loritta Morenitta ⭐\r\n\r\nAll Discord servers have the same problems. Members want entertainment, moderators want automation... and you just want to rest.\r\n\r\nYour life is too precious to spend your time with useless junk, let me take care of the boring parts while you have fun on your server!\r\n\r\nWith features to entertain and engage your members, moderation features to keep your server always safe and enjoyable, and with an easy way to set up but with an unmatched power of customization...\r\n\r\nAnd everything thanks to a 16 year old girl trying to make the world a better place!\r\n\r\n_Making your server unique and extraordinary has never been easier!_",
+            "htmlDescription": "<p>owo isso uma descrição longa</p>\n<p>ainda não escrevi nada de interessante, mas você provavelmente já conhece a Lori ;w;</p>\n<p>ela é fofis, muito boa, uma garotinha de 16 anos tentando transformar o mundo em um lugar melhor!</p>\n<p>okay, byeeee :3</p>\n<p><img src=\"https://cdn.discordapp.com/attachments/708017680677863505/709793353478176768/lori_github_logo.png\" alt=\"Loritta GitHub Logo\"></p>\n<h1>⭐ Loritta Morenitta ⭐</h1>\n<p>All Discord servers have the same problems. Members want entertainment, moderators want automation... and you just want to rest.</p>\n<p>Your life is too precious to spend your time with useless junk, let me take care of the boring parts while you have fun on your server!</p>\n<p>With features to entertain and engage your members, moderation features to keep your server always safe and enjoyable, and with an easy way to set up but with an unmatched power of customization...</p>\n<p>And everything thanks to a 16 year old girl trying to make the world a better place!</p>\n<p><em>Making your server unique and extraordinary has never been easier!</em></p>\n",
+            "supportServer": "V7Kbh4z",
+            "website": "https://loritta.website/",
+            "isHTML": false,
+            "otherOwners": [],
+            "customURL": "loritta"
+        },
+        "approvedBy": "329319222746415124",
+        "votes": {
+            "current": 2,
+            "voteslog": [
+                "570488283059191809",
+                "639995261967663104"
+            ]
+        },
+        "count": {}
+    },
+    {
+        "_id": "678284091959017472",
+        "username": "Hitagi",
+        "discriminator": "5998",
+        "avatar": "9b88fe947dec4869201776fd8b25517e",
+        "status": "online",
+        "owner": "508369613055197241",
+        "dates": {
+            "sent": "2020-04-20T17:55:26.621Z",
+            "approved": "2020-04-22T18:20:04.918Z"
+        },
+        "details": {
+            "prefix": "%",
+            "tags": [
+                "anime",
+                "diversao",
+                "social",
+                "moderacao",
+                "economia",
+                "nsfw"
+            ],
+            "library": "discord.js",
+            "customInviteLink": "https://discordapp.com/api/oauth2/authorize?client_id=678284091959017472&permissions=8&scope=bot",
+            "shortDescription": "Hitagi, um bot com comandos de diversão, ranking, moderação, jogos, nsfw, sociais e Animes!",
+            "longDescription": "> ![Gif](https://cdn.discordapp.com/attachments/735348068093919302/736256533142175794/bakemonogatari_chibi_by_kanda_yakumo_d2e3za6-fullview.png)\r\n>\r\n> ### Hitagi é um bot focado em diversão!\r\n>\r\n> - Contém Classificações Globais dos Usuários para poderem disputar o topo.\r\n> - Comandos Nsfw.\r\n> - Comandos Para ver informações de animes ou mangás!\r\n> - Comandos de Administração para ajudar o servidor.\r\n> - Comandos de Jogos e Interações para os membros poderem se divertir!\r\n> - Sistema de Auto-Role (Cargo Automático).\r\n> - Sistema de Logs!\r\n> - Sistema de Anti-Convites Personalizado.\r\n> - Sistema de Mensagem de Boas vindas e de Saída Personalizado.\r\n> - Sistema de Punições para canais específicos.\r\n> - Sistema de Economia!\r\n\r\n> ### Contato/Website:\r\n> - [Servidor de Suporte](https://discord.gg/x8vHx2g)\r\n> - [Website](https://hitagi.glitch.me/)\r\n> - Contato direito (Discord): `Lag2#4811`\r\n\r\n> ### Perguntas frequentes:\r\n> - **Quais são os comandos?**\r\n>\r\n>\r\n> » Você pode ver a lista completa de todos os comandos disponíveis pelo \r\n> `%help`.\r\n>\r\n>\r\n> - **Ranking** \r\n>\r\n>\r\n> » Os sistemas de ranking disponíveis atualmente são de reputações, level, \r\n> » fragmentos, e dinheiro. Você pode ver seus status usando %rank.\r\n> » Para mais informações sobre o mesmo, use: %ranking.\r\n>\r\n>\r\n> - **Como Vejo a leaderboard?**\r\n>\r\n>\r\n> » Estes são os seguintes comandos de leaderboard:\r\n> » Reputações: `%Toprep`\r\n> » Level: `%Toprank`\r\n> » Money: `%Topmoney`\r\n> » Fragmentos: `%Topfrag`\r\n> » Votos: `%Topvotes`\r\n>\r\n>\r\n> - **Como posso ganhar dinheiro?**\r\n>\r\n> » Você pode ganhar dinheiro pelos trabalhos (`%Work`), votando, ou pode receber recompensas todos os dias usando o comando `%Daily`.\r\n> \r\n>\r\n> - **A partir de qual level eu posso trabalhar?**\r\n>\r\n> » Você pode começar a trabalhar a partir do level `2`.\r\n> \r\n>\r\n> - **Como vejo meus recursos?**\r\n>\r\n> » Você pode checar sua quantia de money usando » `%money`\r\n>\r\n> » Para chegar a quantia de fragmentos use » `%fragmentos`\r\n>\r\n> » Para ver os recursos em seu armazém use » `%storage`\r\n>\r\n>\r\n> - **Como uso o sistema de boas vindas?**\r\n>\r\n> » Para setar o canal de boas vindas: `%welcome channel (#nome ou id)`;\r\n>\r\n> » Para setar sua mensagem, use: `%welcome msg (sua mensagem)`;\r\n>\r\n> » Use: `%welcome ajuda`, para mais informações.\r\n> \r\n>\r\n> - **Como uso o sistema de saída?**\r\n>\r\n> » Para setar o canal de saída: `%leave channel (#nome ou id)`;\r\n>\r\n> » Para setar sua mensagem, use: `%leave msg (sua mensagem)`;\r\n>\r\n> » Use: `%leave ajuda`, para mais informações.\r\n>\r\n> - **Como posso definir um cargo no Auto-role?**\r\n>\r\n> » Para escolher o cargo automático que será adquirido após alguém ingressar no seu servidor, Você deve usar: `%autorole set <@cargo>`;\r\n>\r\n> » Para desativar a função, use: `%autorole off`.",
+            "htmlDescription": "<blockquote>\n<p><img src=\"https://cdn.discordapp.com/attachments/735348068093919302/736256533142175794/bakemonogatari_chibi_by_kanda_yakumo_d2e3za6-fullview.png\" alt=\"Gif\"></p>\n<h3>Hitagi é um bot focado em diversão!</h3>\n<ul>\n<li>Contém Classificações Globais dos Usuários para poderem disputar o topo.</li>\n<li>Comandos Nsfw.</li>\n<li>Comandos Para ver informações de animes ou mangás!</li>\n<li>Comandos de Administração para ajudar o servidor.</li>\n<li>Comandos de Jogos e Interações para os membros poderem se divertir!</li>\n<li>Sistema de Auto-Role (Cargo Automático).</li>\n<li>Sistema de Logs!</li>\n<li>Sistema de Anti-Convites Personalizado.</li>\n<li>Sistema de Mensagem de Boas vindas e de Saída Personalizado.</li>\n<li>Sistema de Punições para canais específicos.</li>\n<li>Sistema de Economia!</li>\n</ul>\n</blockquote>\n<blockquote>\n<h3>Contato/Website:</h3>\n<ul>\n<li><a href=\"https://discord.gg/x8vHx2g\">Servidor de Suporte</a></li>\n<li><a href=\"https://hitagi.glitch.me/\">Website</a></li>\n<li>Contato direito (Discord): <code>Lag2#4811</code></li>\n</ul>\n</blockquote>\n<blockquote>\n<h3>Perguntas frequentes:</h3>\n<ul>\n<li><strong>Quais são os comandos?</strong></li>\n</ul>\n<p>» Você pode ver a lista completa de todos os comandos disponíveis pelo\n<code>%help</code>.</p>\n<ul>\n<li><strong>Ranking</strong></li>\n</ul>\n<p>» Os sistemas de ranking disponíveis atualmente são de reputações, level,\n» fragmentos, e dinheiro. Você pode ver seus status usando %rank.\n» Para mais informações sobre o mesmo, use: %ranking.</p>\n<ul>\n<li><strong>Como Vejo a leaderboard?</strong></li>\n</ul>\n<p>» Estes são os seguintes comandos de leaderboard:\n» Reputações: <code>%Toprep</code>\n» Level: <code>%Toprank</code>\n» Money: <code>%Topmoney</code>\n» Fragmentos: <code>%Topfrag</code>\n» Votos: <code>%Topvotes</code></p>\n<ul>\n<li><strong>Como posso ganhar dinheiro?</strong></li>\n</ul>\n<p>» Você pode ganhar dinheiro pelos trabalhos (<code>%Work</code>), votando, ou pode receber recompensas todos os dias usando o comando <code>%Daily</code>.</p>\n<ul>\n<li><strong>A partir de qual level eu posso trabalhar?</strong></li>\n</ul>\n<p>» Você pode começar a trabalhar a partir do level <code>2</code>.</p>\n<ul>\n<li><strong>Como vejo meus recursos?</strong></li>\n</ul>\n<p>» Você pode checar sua quantia de money usando » <code>%money</code></p>\n<p>» Para chegar a quantia de fragmentos use » <code>%fragmentos</code></p>\n<p>» Para ver os recursos em seu armazém use » <code>%storage</code></p>\n<ul>\n<li><strong>Como uso o sistema de boas vindas?</strong></li>\n</ul>\n<p>» Para setar o canal de boas vindas: <code>%welcome channel (#nome ou id)</code>;</p>\n<p>» Para setar sua mensagem, use: <code>%welcome msg (sua mensagem)</code>;</p>\n<p>» Use: <code>%welcome ajuda</code>, para mais informações.</p>\n<ul>\n<li><strong>Como uso o sistema de saída?</strong></li>\n</ul>\n<p>» Para setar o canal de saída: <code>%leave channel (#nome ou id)</code>;</p>\n<p>» Para setar sua mensagem, use: <code>%leave msg (sua mensagem)</code>;</p>\n<p>» Use: <code>%leave ajuda</code>, para mais informações.</p>\n<ul>\n<li><strong>Como posso definir um cargo no Auto-role?</strong></li>\n</ul>\n<p>» Para escolher o cargo automático que será adquirido após alguém ingressar no seu servidor, Você deve usar: <code>%autorole set &lt;@cargo&gt;</code>;</p>\n<p>» Para desativar a função, use: <code>%autorole off</code>.</p>\n</blockquote>\n",
+            "supportServer": "x8vHx2g",
+            "website": "https://hitagi.glitch.me/",
+            "isHTML": false,
+            "otherOwners": []
+        },
+        "approvedBy": "424304428682706956",
+        "votes": {
+            "current": 645
+        },
+        "count": {}
+    },
+    {
+        "_id": "389917977862078484",
+        "username": "Kurosawa Dia",
+        "discriminator": "2439",
+        "avatar": "affbc327ced2d8547f411b2bbfb9ce68",
+        "status": "online",
+        "owner": "203713369927057408",
+        "dates": {
+            "sent": "2020-09-07T03:49:51.735Z",
+            "approved": "2019-12-15T03:51:44.502Z"
+        },
+        "details": {
+            "prefix": "~",
+            "tags": [
+                "anime",
+                "utilidades",
+                "moderacao",
+                "outros"
+            ],
+            "library": "DSharpPlus",
+            "customInviteLink": "",
+            "shortDescription": "Apenas um amorzinho, com comandos de utilidades, weeb e muito mais.",
+            "longDescription": "# Kurosawa Dia\r\n\r\n![](https://i.imgur.com/tgn3Tqp.png)\r\n\r\nMeu nome é Kurosawa sou uma garota como as outras, mas eu tenho um segredo..... \r\n\r\nTa n sou uma super heroína, mas sou uma pessoa legal que pode te ajudar com seu servidor e te animar um pouco\r\n\r\nSe me der uma chance você pode gostar 😉",
+            "htmlDescription": "<h1>Kurosawa Dia</h1>\n<p><img src=\"https://i.imgur.com/tgn3Tqp.png\" alt=\"\"></p>\n<p>Meu nome é Kurosawa sou uma garota como as outras, mas eu tenho um segredo.....</p>\n<p>Ta n sou uma super heroína, mas sou uma pessoa legal que pode te ajudar com seu servidor e te animar um pouco</p>\n<p>Se me der uma chance você pode gostar 😉</p>\n",
+            "supportServer": "BKRw4ng",
+            "website": "https://kurosawa.zuraaa.com",
+            "isHTML": false,
+            "otherOwners": []
+        },
+        "approvedBy": "424304428682706956",
+        "votes": {
+            "current": 14,
+            "voteslog": [
+                "367425061122211843",
+                "203713369927057408",
+                "367425061122211843",
+                "203713369927057408",
+                "371077397295923200",
+                "243106336416595978",
+                "367425061122211843",
+                "367425061122211843",
+                "367425061122211843",
+                "367425061122211843",
+                "367425061122211843",
+                "367425061122211843",
+                "367425061122211843",
+                "585259832500682755"
+            ]
+        },
+        "count": {}
+    },
+    {
+        "_id": "469306293946023936",
+        "username": "Emilia",
+        "discriminator": "2609",
+        "avatar": "7ee48416b40c821e5c4dd9ae31c27a05",
+        "status": "online",
+        "owner": "468240598483206154",
+        "dates": {
+            "sent": "2020-12-24T14:58:03.291Z"
+        },
+        "details": {
+            "prefix": "..",
+            "tags": [
+                "anime",
+                "diversao",
+                "utilidades",
+                "social",
+                "jogos"
+            ],
+            "library": "eris",
+            "customInviteLink": "",
+            "shortDescription": "Simples bot focado em diversão e informações",
+            "longDescription": "",
+            "htmlDescription": "",
+            "supportServer": "",
+            "website": "",
+            "isHTML": false,
+            "otherOwners": []
+        },
+        "approvedBy": "367425061122211843",
+        "votes": {
+            "current": 0,
+            "voteslog": []
+        },
+        "count": {}
+    },
+    {
+        "_id": "618488191221104665",
+        "username": "Schwi",
+        "discriminator": "2757",
+        "avatar": "d06f1c9e1faeeb8f9ac4e38b7851d983",
+        "status": "online",
+        "owner": "299985913818251264",
+        "dates": {
+            "sent": "2020-06-03T22:56:56.761Z",
+            "approved": "2020-06-06T08:10:34.256Z"
+        },
+        "details": {
+            "prefix": "s.",
+            "tags": [
+                "anime",
+                "diversao",
+                "utilidades",
+                "moderacao",
+                "economia"
+            ],
+            "library": "discord.js",
+            "customInviteLink": "https://discord.com/oauth2/authorize?client_id=618488191221104665&scope=bot&permissions=2080374975",
+            "shortDescription": "Olá, meu nome é Schwi. Sou um bot focado em moderação, reactionrole, brincadeiras, animes e mais!",
+            "longDescription": "# Schwi\r\n\r\n> **Olá, meu nome é Schwi. Sou um bot em desenvolvimento e já possuo comandos bastante intuitivos.**\r\n\r\n### Aqui embaixo irei citar uns dos meus principais comandos:\r\n----\r\n* Moderação:\r\n`s.ban` | `s.kick` | `s.mute` | `s.lock` | `s.slowmode` | `s.clear` | `s.log`\r\n\r\n\r\n* Utilidades:\r\n`s.welcome`  | `s.autorole`  |` s.contador` | `s.reactionrole` | `s.defesa convite` (anti invite)\r\n\r\n\r\n* Diversão:\r\n`s.hug` | `s.pat` | `s.kiss` | `s.slap` | `s.fake` | `s.vidente`\r\n\r\n\r\n* Economia:\r\n`s.money` | `s.daily` | `s.moneytop`\r\n\r\n\r\n### Algumas informações sobre mim:\r\n----\r\n* Eu possuo o sistema de NQN (Not Quite Nitro) que por padrão vem ativado, mas você pode desativar usando `s.nqn desativar`\r\n\r\n  \r\n* Meu prefixo pode ser facilmente alterado com `s.prefix`\r\n\r\n  \r\n* Possuo sistema de Reaction Role, que você pode atribuir cargo por reações em uma mensagem!\r\n\r\n  \r\n* Você só viu apenas um dos principais comandos do meu bot, você pode conferir todos usando `s.help`!\r\n\r\n\r\n> Espero que  você goste de mim :)\r\n\r\n\r\n[![Discord Bots](https://top.gg/api/widget/servers/618488191221104665.svg)](https://top.gg/bot/618488191221104665) [![Discord Bots](https://top.gg/api/widget/lib/618488191221104665.svg?noavatar=true)](https://top.gg/bot/618488191221104665) [![Discord Bots](https://top.gg/api/widget/owner/618488191221104665.svg?noavatar=true)](https://top.gg/bot/618488191221104665)",
+            "htmlDescription": "<h1>Schwi</h1>\n<blockquote>\n<p><strong>Olá, meu nome é Schwi. Sou um bot em desenvolvimento e já possuo comandos bastante intuitivos.</strong></p>\n</blockquote>\n<h3>Aqui embaixo irei citar uns dos meus principais comandos:</h3>\n<hr>\n<ul>\n<li>\n<p>Moderação:\n<code>s.ban</code> | <code>s.kick</code> | <code>s.mute</code> | <code>s.lock</code> | <code>s.slowmode</code> | <code>s.clear</code> | <code>s.log</code></p>\n</li>\n<li>\n<p>Utilidades:\n<code>s.welcome</code>  | <code>s.autorole</code>  |<code> s.contador</code> | <code>s.reactionrole</code> | <code>s.defesa convite</code> (anti invite)</p>\n</li>\n<li>\n<p>Diversão:\n<code>s.hug</code> | <code>s.pat</code> | <code>s.kiss</code> | <code>s.slap</code> | <code>s.fake</code> | <code>s.vidente</code></p>\n</li>\n<li>\n<p>Economia:\n<code>s.money</code> | <code>s.daily</code> | <code>s.moneytop</code></p>\n</li>\n</ul>\n<h3>Algumas informações sobre mim:</h3>\n<hr>\n<ul>\n<li>\n<p>Eu possuo o sistema de NQN (Not Quite Nitro) que por padrão vem ativado, mas você pode desativar usando <code>s.nqn desativar</code></p>\n</li>\n<li>\n<p>Meu prefixo pode ser facilmente alterado com <code>s.prefix</code></p>\n</li>\n<li>\n<p>Possuo sistema de Reaction Role, que você pode atribuir cargo por reações em uma mensagem!</p>\n</li>\n<li>\n<p>Você só viu apenas um dos principais comandos do meu bot, você pode conferir todos usando <code>s.help</code>!</p>\n</li>\n</ul>\n<blockquote>\n<p>Espero que  você goste de mim :)</p>\n</blockquote>\n<p><a href=\"https://top.gg/bot/618488191221104665\"><img src=\"https://top.gg/api/widget/servers/618488191221104665.svg\" alt=\"Discord Bots\"></a> <a href=\"https://top.gg/bot/618488191221104665\"><img src=\"https://top.gg/api/widget/lib/618488191221104665.svg?noavatar=true\" alt=\"Discord Bots\"></a> <a href=\"https://top.gg/bot/618488191221104665\"><img src=\"https://top.gg/api/widget/owner/618488191221104665.svg?noavatar=true\" alt=\"Discord Bots\"></a></p>\n",
+            "supportServer": "R8XHZJx",
+            "website": "",
+            "isHTML": false,
+            "otherOwners": [],
+            "customURL": "schwi"
+        },
+        "approvedBy": "424304428682706956",
+        "votes": {
+            "current": 138
+        },
+        "count": {}
+    },
+    {
+        "_id": "285480424904327179",
+        "username": "BoobBot™",
+        "discriminator": "5382",
+        "avatar": "5ee307e57b6eb92a68515f51b69807e4",
+        "status": "online",
+        "owner": "248294452307689473",
+        "dates": {
+            "sent": "2020-02-29T01:57:52.809Z",
+            "approved": "2020-02-29T03:15:04.979Z"
+        },
+        "details": {
+            "prefix": "bb",
+            "tags": [
+                "social",
+                "nsfw"
+            ],
+            "library": "JDA",
+            "customInviteLink": "https://bot.boob.bot",
+            "shortDescription": "Pictures of nature. 🍑 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​",
+            "longDescription": "Discord's original NSFW bot. \r\nWe're expanding to broaden out on our user base! \r\nNo bullshit, just HQ content through memes, great NSFW content, as well as new and future mod commands. \r\nThere will also be a new and upcoming economy through the bot. So, enjoy!",
+            "htmlDescription": "<p>Discord's original NSFW bot.\nWe're expanding to broaden out on our user base!\nNo bullshit, just HQ content through memes, great NSFW content, as well as new and future mod commands.\nThere will also be a new and upcoming economy through the bot. So, enjoy!</p>\n",
+            "supportServer": "boobbot",
+            "website": "https://boob.bot",
+            "isHTML": false,
+            "otherOwners": [
+                ""
+            ],
+            "customURL": "boobbot"
+        },
+        "approvedBy": "424304428682706956",
+        "votes": {
+            "current": 2,
+            "voteslog": [
+                "768496933329043488",
+                "543856468936491018"
+            ]
+        },
+        "count": {}
+    },
+    {
+        "_id": "678388701394632725",
+        "username": "Kono Aqua 者",
+        "discriminator": "7453",
+        "avatar": "35d7bb2780dfd6db37ba234d9d12b8b0",
+        "status": "streaming",
+        "owner": "648185013728313394",
+        "dates": {
+            "sent": "2020-08-19T04:12:21.806Z",
+            "approved": "2020-08-19T04:25:15.365Z"
+        },
+        "details": {
+            "prefix": "k.",
+            "tags": [
+                "musica",
+                "moderacao"
+            ],
+            "library": "discord.js",
+            "customInviteLink": "",
+            "shortDescription": "Bot para discord com multiplas funcionalidades, focado em qualidade, organização e simplicidade.",
+            "longDescription": "antes de começarmos, vamos ver algumas perguntas frequentes:\r\n\r\nPerguntas da comunidade\tResposta dos donos do bot Hana e sua equipe\r\nQual é o prefixo do bot?\tO prefixo da Kono é k. (O prefixo pode sofrer alterações, você pode acompanhar isso olhando a parte Prefixo, ao lado dos criadores.\r\nEu achei um erro, bug. Onde posso reportar?\tCaso ache algum bug ou erro nos contate pelo discord (Privado ou servidor de suporte) ou por nosso e-mail (Você pode achar nosso e-mail no fim da descrição)\r\nEu achei o erro An error has occured when trying to get the video ID from youtube, o que faço?\tFaça o mesmo procedimento listado acima, lembre de sempre identificar o bug ou erro que foi encontrado.\r\nO bot está demorando para responder, o que pode ser?\tIsso pode ser problema na Host ou problema com o próprio discord, espere um tempo e caso a demora para o bot responder persistir, entre em contato conosco\r\n(Raro)(Possivelmente Fixado) O bot não toca a música e não consigo fazer ele tocar uma música e nem sair da call, o que faço?\tChame o dono Hiro no privado IMEDIATAMENTE! e ele irá arrumar o bug",
+            "htmlDescription": "<p>antes de começarmos, vamos ver algumas perguntas frequentes:</p>\n<p>Perguntas da comunidade\tResposta dos donos do bot Hana e sua equipe\nQual é o prefixo do bot?\tO prefixo da Kono é k. (O prefixo pode sofrer alterações, você pode acompanhar isso olhando a parte Prefixo, ao lado dos criadores.\nEu achei um erro, bug. Onde posso reportar?\tCaso ache algum bug ou erro nos contate pelo discord (Privado ou servidor de suporte) ou por nosso e-mail (Você pode achar nosso e-mail no fim da descrição)\nEu achei o erro An error has occured when trying to get the video ID from youtube, o que faço?\tFaça o mesmo procedimento listado acima, lembre de sempre identificar o bug ou erro que foi encontrado.\nO bot está demorando para responder, o que pode ser?\tIsso pode ser problema na Host ou problema com o próprio discord, espere um tempo e caso a demora para o bot responder persistir, entre em contato conosco\n(Raro)(Possivelmente Fixado) O bot não toca a música e não consigo fazer ele tocar uma música e nem sair da call, o que faço?\tChame o dono Hiro no privado IMEDIATAMENTE! e ele irá arrumar o bug</p>\n",
+            "supportServer": "Mh6aB2D",
+            "website": "",
+            "isHTML": false,
+            "otherOwners": [
+                ""
+            ],
+            "customURL": null
+        },
+        "approvedBy": "672652538880720896",
+        "votes": {
+            "current": 1,
+            "voteslog": [
+                "734169539230826497"
+            ]
+        },
+        "count": {}
+    },
+    {
+        "_id": "717124862459773059",
+        "username": "Wendy",
+        "discriminator": "3556",
+        "avatar": "9b577ff74cb3a8d5300bec2ad846a9d5",
+        "status": "online",
+        "owner": "430015376265576459",
+        "dates": {
+            "sent": "2020-09-01T14:15:59.944Z",
+            "approved": "2020-09-01T16:19:19.338Z"
+        },
+        "details": {
+            "prefix": "//",
+            "tags": [
+                "diversao",
+                "utilidades",
+                "moderacao",
+                "economia",
+                "outros"
+            ],
+            "library": "discord.js",
+            "customInviteLink": "https://invite.wendybot.tk/",
+            "shortDescription": "Um ótimo bot para discord com vários módulos como economia, moderação, diversão entre outros.",
+            "longDescription": "A Wendy é um simples bot para discord, com atualizações quase diárias com vários módulos como economia, moderação, diversão entre outros.\r\n\r\nNela você pode definir um chat de punições com //config, um prefixo configuravel (//prefix) e muito mais, eu estou sempre adicionando coisas novas e arrumando possíveis bugs.",
+            "htmlDescription": "<p>A Wendy é um simples bot para discord, com atualizações quase diárias com vários módulos como economia, moderação, diversão entre outros.</p>\n<p>Nela você pode definir um chat de punições com //config, um prefixo configuravel (//prefix) e muito mais, eu estou sempre adicionando coisas novas e arrumando possíveis bugs.</p>\n",
+            "supportServer": "yGmpBWB",
+            "website": "https://wendybot.tk/",
+            "isHTML": false,
+            "otherOwners": [],
+            "customURL": null
+        },
+        "approvedBy": "299985913818251264",
+        "votes": {
+            "current": 127
+        },
+        "count": {}
+    },
+    {
+        "_id": "470684281102925844",
+        "username": "Asura",
+        "discriminator": "4093",
+        "avatar": "e1dfb36e69e5b83f081f8ee3ba1adbd3",
+        "status": "online",
+        "owner": "365948625676795904",
+        "dates": {
+            "sent": "2019-04-04T00:16:56.643Z",
+            "approved": "2019-04-04T00:28:19.377Z"
+        },
+        "details": {
+            "prefix": "j!",
+            "tags": [
+                "anime",
+                "dashboard",
+                "diversao",
+                "utilidades"
+            ],
+            "library": "discord.py",
+            "customInviteLink": "",
+            "shortDescription": "Um bot de jogos, utilidades, diversão e muito mais! Jogue jogos como Jogo da Velha ou acesse sites",
+            "longDescription": "### Asura\r\n\r\nAsura, um bot de jogos, utilidades, diversão e muito mais! Jogue jogos como Jogo da Velha ou acesse qualquer site pelo Discord. Baseado na gostosa da personagem Jibril de No Game No Life.",
+            "htmlDescription": "<h3>Asura</h3>\n<p>Asura, um bot de jogos, utilidades, diversão e muito mais! Jogue jogos como Jogo da Velha ou acesse qualquer site pelo Discord. Baseado na gostosa da personagem Jibril de No Game No Life.</p>\n",
+            "supportServer": "",
+            "website": "http://asura-site.glitch.me",
+            "isHTML": false,
+            "otherOwners": [
+                ""
+            ],
+            "customURL": null
+        },
+        "approvedBy": "424304428682706956",
+        "votes": {
+            "current": 3,
+            "voteslog": [
+                "698980505638666342",
+                "754072865992868013",
+                "754072865992868013"
+            ]
+        },
+        "count": {}
+    }
+]

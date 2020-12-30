@@ -1,0 +1,17 @@
+{
+    "name": "api-simples-zuraaa",
+    "version": "0.1.0",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "start": "node .",
+        "dev": "nodemon ."
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "type": "module",
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
