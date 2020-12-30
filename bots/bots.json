@@ -38,6 +38,49 @@
         "count": {}
     },
     {
+        "_id": "673711596345884675",
+        "username": "Disco",
+        "discriminator": "8194",
+        "avatar": "b780d3e6ca1d1ce323b6aea63be0b918",
+        "status": "online",
+        "owner": "479107440391225344",
+        "dates": {
+            "sent": "2020-12-29T05:12:56.966Z"
+        },
+        "details": {
+            "prefix": "Disco ",
+            "tags": [
+                "musica"
+            ],
+            "library": "discord.js",
+            "customInviteLink": "https://discord.com/oauth2/authorize?client_id=673711596345884675&scope=bot&permissions=37088592",
+            "shortDescription": "Disco, um bot de música.",
+            "longDescription": "Disco, feito para seu servidor!",
+            "htmlDescription": "<p>Disco, feito para seu servidor!</p>\n",
+            "supportServer": "Jq6cWcZS9q",
+            "website": "",
+            "isHTML": false,
+            "otherOwners": []
+        },
+        "approvedBy": "790063757207797802",
+        "votes": {
+            "current": 10,
+            "voteslog": [
+                "479107440391225344",
+                "790063757207797802",
+                "672652538880720896",
+                "380441229416071170",
+                "748278357107540161",
+                "369230482237423617",
+                "748278357107540161",
+                "479107440391225344",
+                "369230482237423617",
+                "479107440391225344"
+            ]
+        },
+        "count": {}
+    },
+    {
         "_id": "770762400034848808",
         "username": "Rikka",
         "discriminator": "6717",
